@@ -4,6 +4,10 @@ Omnilogue is a Streamlit-based application that allows users to query multiple L
 
 Live demo: [https://omnilogue.streamlit.app](https://omnilogue.streamlit.app)
 
+## Demo
+[![A short demo](http://img.youtube.com/vi/rmk1EyUAFvM/0.jpg)](http://www.youtube.com/watch?v=rmk1EyUAFvM)
+
+
 ## Features
 
 - Query multiple LLMs simultaneously
