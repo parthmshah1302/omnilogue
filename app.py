@@ -71,7 +71,7 @@ def query_claude(client, prompt):
         return f"Error querying Claude: {str(e)}"
 
 st.title("Multi-LLM Query App")
-st.subtitle("by Parth Shah")
+st.header("by Parth Shah")
 
 uploaded_file = st.file_uploader("Upload API Keys File", type="txt")
 
